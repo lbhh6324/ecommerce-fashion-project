@@ -1,4 +1,4 @@
-# **PROJECT INSTRUCTION FOR AI**
+# **Project Instructions for AI**
 
 Tài liệu này quy định các nguyên tắc, phạm vi và quy trình làm việc bắt buộc dành cho các công cụ Trí tuệ Nhân tạo (AI Assistants / Coding Agents) khi hỗ trợ nhóm phát triển dự án **Hotmate**.
 
