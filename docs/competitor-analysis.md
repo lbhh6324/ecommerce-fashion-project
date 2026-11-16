@@ -74,7 +74,7 @@ Phương án thiết kế của HOTMATE được xây dựng dựa trên sự c�
 
 ---
 
-## 3. Minh họa khảo sát thực tế
+## 3. Minh họa khảo sát thực tế website Yody
 <img width="2534" height="1317" alt="image" src="https://github.com/user-attachments/assets/eeef3688-7773-4b23-9354-ecc21b8f14af" />
 *Hình 1: Trang chủ của Yody.*
 
