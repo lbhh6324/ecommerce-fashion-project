@@ -1,6 +1,6 @@
 # **NỘI DUNG TÀI LIỆU ĐẶC TẢ YÊU CẦU (REQUIREMENTS)**
 
-## **2.1. Mục tiêu dự án**
+## **1. Mục tiêu dự án**
 
 | Loại mục tiêu | Nội dung |
 | :---- | :---- |
@@ -9,11 +9,11 @@
 | Mục tiêu vận hành | Xây dựng hệ thống quản lý tập trung cho Admin, hỗ trợ quản lý danh mục, sản phẩm, biến thể kích cỡ/màu sắc, số lượng tồn kho và đơn hàng. Từng bước chuẩn hóa quy trình từ trưng bày sản phẩm, tiếp nhận đơn hàng đến xử lý và cập nhật trạng thái giao hàng. |
 | Mục tiêu kỹ thuật | Phát triển website có cấu trúc rõ ràng, giao diện đáp ứng trên máy tính và điện thoại, có khả năng kết nối Frontend với Backend thông qua API và lưu trữ dữ liệu trong cơ sở dữ liệu. Đảm bảo các chức năng cốt lõi hoạt động thống nhất, dữ liệu được kiểm tra hợp lệ và quyền truy cập được kiểm soát theo vai trò. |
 
-## **2.2. Phạm vi dự án**
+## **2. Phạm vi dự án**
 
 Dự án được triển khai theo lộ trình Giai đoạn 1 – MVP (Minimum Viable Product), tập trung xây dựng những chức năng thiết yếu để kiểm chứng mô hình kinh doanh D2C của HOTMATE trên website. Phạm vi ưu tiên dòng thời trang nam, hai nhóm sản phẩm Basics và Smart Casual, cùng quy trình mua hàng và quản trị đơn hàng cơ bản.
 
-### **2.2.1. Các chức năng trong phạm vi triển khai (MVP)**
+### **2.1. Các chức năng trong phạm vi triển khai (MVP)**
 
 | STT | Nhóm chức năng | Nội dung triển khai |
 | :---- | :---- | :---- |
@@ -27,7 +27,7 @@ Dự án được triển khai theo lộ trình Giai đoạn 1 – MVP (Minimum 
 | 8 | Theo dõi và quản lý đơn hàng | Cho phép khách hàng xem lịch sử mua hàng, thông tin chi tiết và trạng thái đơn hàng của chính mình. Khách hàng được hủy đơn khi đơn hàng còn ở trạng thái "Chờ xác nhận". Admin được xem toàn bộ đơn hàng và cập nhật trạng thái xử lý. |
 | 9 | Quản trị hệ thống | Cung cấp giao diện quản trị cho Admin để thêm, sửa, xóa danh mục và sản phẩm; cập nhật hình ảnh, giá bán, chất liệu, biến thể kích cỡ/màu sắc, bảng minh bạch chi phí và số lượng tồn kho. Hỗ trợ xem chi tiết đơn hàng và cập nhật trạng thái xử lý đơn. |
 
-### **2.2.2. Các chức năng ngoài phạm vi triển khai**
+### **2.2. Các chức năng ngoài phạm vi triển khai**
 
 | STT | Chức năng | Lý do chưa triển khai trong đồ án |
 | :---- | :---- | :---- |
@@ -39,7 +39,7 @@ Dự án được triển khai theo lộ trình Giai đoạn 1 – MVP (Minimum 
 
 Nguyên tắc xác định phạm vi: Các chức năng chưa được liệt kê trong phạm vi MVP không tự động được xem là yêu cầu bắt buộc. Mọi đề xuất mở rộng phải được nhóm xem xét và thống nhất trước khi triển khai.
 
-## **2.3. Người dùng hệ thống**
+## **3. Người dùng hệ thống**
 
 Hệ thống phục vụ ba nhóm người dùng chính. Nhiệm vụ và quyền hạn chi tiết được quy định tại tài liệu docs/user-roles.md.
 
@@ -49,9 +49,9 @@ Hệ thống phục vụ ba nhóm người dùng chính. Nhiệm vụ và quyề
 | 2 | Khách hàng (Customer) | Là người đã đăng ký và đăng nhập tài khoản trên hệ thống, thuộc nhóm khách hàng mục tiêu của HOTMATE. Có thể quản lý thông tin cá nhân, lựa chọn sản phẩm, quản lý giỏ hàng, đặt hàng, xem lịch sử và theo dõi trạng thái đơn hàng. Chỉ được truy cập dữ liệu gắn với tài khoản của mình. |
 | 3 | Quản trị viên (Admin) | Là người phụ trách vận hành hệ thống HOTMATE. Có quyền quản lý danh mục, thông tin sản phẩm, biến thể kích cỡ/màu sắc, bảng minh bạch chi phí, tồn kho và toàn bộ đơn hàng. Chịu trách nhiệm cập nhật dữ liệu và trạng thái xử lý đơn hàng trên hệ thống. |
 
-## **2.4. Yêu cầu chức năng (Functional Requirements)**
+## **4. Yêu cầu chức năng (Functional Requirements)**
 
-### **2.4.1. Bảng danh sách yêu cầu chức năng**
+### **4.1. Bảng danh sách yêu cầu chức năng**
 
 | Mã | Tên chức năng | Mô tả | Người sử dụng | Ưu tiên |
 | :---- | :---- | :---- | :---- | :---- |
@@ -65,7 +65,7 @@ Hệ thống phục vụ ba nhóm người dùng chính. Nhiệm vụ và quyề
 | F08 | Quản lý sản phẩm và danh mục | Cho phép Admin thêm, sửa, xóa danh mục và sản phẩm; cập nhật hình ảnh, giá bán, chất liệu, biến thể kích cỡ/màu sắc, bảng minh bạch chi phí sản xuất và số lượng tồn kho. | Admin | Bắt buộc |
 | F09 | Quản lý đơn hàng | Cho phép Admin xem danh sách, chi tiết toàn bộ đơn hàng và cập nhật trạng thái xử lý. Trạng thái mới phải được đồng bộ để khách hàng có thể theo dõi trên tài khoản của mình. | Admin | Bắt buộc |
 
-### **2.4.2. Tiêu chí nghiệm thu (Acceptance Criteria)**
+### **4.2. Tiêu chí nghiệm thu (Acceptance Criteria)**
 
 | Mã | Tiêu chí nghiệm thu |
 | :---- | :---- |
@@ -79,7 +79,7 @@ Hệ thống phục vụ ba nhóm người dùng chính. Nhiệm vụ và quyề
 | F08 | Admin có thể thêm, sửa, xóa danh mục và sản phẩm; cập nhật giá bán, hình ảnh, chất liệu, kích cỡ, màu sắc, thông số bảng minh bạch chi phí và tồn kho. Dữ liệu sau khi cập nhật phải được đồng bộ trên giao diện khách hàng. Hệ thống không cho phép lưu sản phẩm khi thiếu tên, giá bán không hợp lệ hoặc số lượng tồn kho âm. Tài khoản không có vai trò Admin không được thực hiện các thao tác này. |
 | F09 | Admin xem được danh sách và chi tiết toàn bộ đơn hàng, bao gồm thông tin người nhận, sản phẩm, biến thể, số lượng và tổng tiền. Admin có thể cập nhật trạng thái đơn hàng theo quy trình xử lý. Khi trạng thái thay đổi, thông tin mới phải được lưu trong hệ thống và hiển thị đồng bộ trên trang theo dõi đơn hàng của khách hàng. Người dùng không có quyền Admin không được gọi chức năng cập nhật trạng thái đơn hàng. |
 
-### **2.4.3. Quy định trạng thái đơn hàng**
+### **4.3. Quy định trạng thái đơn hàng**
 
 Để thống nhất giữa chức năng đặt hàng, quản lý đơn hàng và theo dõi đơn hàng, hệ thống sử dụng các trạng thái sau:
 
@@ -99,7 +99,7 @@ Trường hợp hủy: Chờ xác nhận → Đã hủy.
 
 Việc cập nhật trạng thái phải được kiểm soát để tránh chuyển trạng thái không hợp lệ. Khi đơn hàng bị hủy và tồn kho đã được trừ, hệ thống phải hoàn lại số lượng cho đúng biến thể sản phẩm.
 
-### **2.4.4. Bảng phân nhóm chức năng theo nghiệp vụ**
+### **4.4. Bảng phân nhóm chức năng theo nghiệp vụ**
 
 | Nhóm nghiệp vụ | Đối tượng phục vụ | Mã chức năng tương ứng |
 | :---- | :---- | :---- |
@@ -107,7 +107,7 @@ Việc cập nhật trạng thái phải được kiểm soát để tránh chuy
 | Nhóm 2: Tài khoản và mua hàng | Customer; Guest ở bước đăng ký/đăng nhập | F04, F05, F06, F07 |
 | Nhóm 3: Quản trị hệ thống | Admin | F08, F09 |
 
-### **2.4.5. Luồng nghiệp vụ cốt lõi**
+### **4.5. Luồng nghiệp vụ cốt lõi**
 
 Luồng mua hàng của khách hàng:
 
@@ -141,7 +141,7 @@ Luồng quản trị đơn hàng:
 
 5\. 	Hệ thống lưu trạng thái mới và đồng bộ thông tin để khách hàng theo dõi.
 
-## **2.5. Yêu cầu phi chức năng (Non-Functional Requirements)**
+## **5. Yêu cầu phi chức năng (Non-Functional Requirements)**
 
 | STT | Nhóm yêu cầu | Nội dung chi tiết |
 | :---- | :---- | :---- |
@@ -150,9 +150,9 @@ Luồng quản trị đơn hàng:
 | 3 | Bảo mật và phân quyền | Chỉ tài khoản Admin được phép truy cập các chức năng quản trị F08 và F09. Khách hàng chỉ được xem và thao tác trên dữ liệu thuộc tài khoản của mình. Mật khẩu phải được băm an toàn trước khi lưu vào cơ sở dữ liệu. Các API cần kiểm tra xác thực và quyền truy cập; không công khai mật khẩu, API Key, thông tin kết nối cơ sở dữ liệu hoặc dữ liệu nhạy cảm trên repository GitHub. |
 | 4 | Tổ chức mã nguồn và khả năng bảo trì | Cấu trúc dự án phải được phân chia rõ ràng giữa giao diện (Frontend), xử lý nghiệp vụ (Backend) và cơ sở dữ liệu. Các module và file cần được đặt tên nhất quán, hạn chế code trùng lặp, thuận tiện cho việc kiểm thử, tích hợp và bảo trì. Các thành viên phải tuân thủ quy tắc trong file AGENTS.md. |
 
-## **2.6. Giới hạn và giả định (Constraints và Assumptions)**
+## **6. Giới hạn và giả định (Constraints và Assumptions)**
 
-### **2.6.1. Giới hạn của dự án**
+### **6.1. Giới hạn của dự án**
 
 | Loại giới hạn | Nội dung |
 | :---- | :---- |
@@ -162,7 +162,7 @@ Luồng quản trị đơn hàng:
 | Môi trường giao dịch | Hệ thống hỗ trợ luồng thanh toán COD và thanh toán trực tuyến qua cổng thanh toán (Chuyển khoản QR Code, Ví điện tử MoMo/VNPay) trong môi trường học tập, phục vụ mô phỏng và kiểm thử quy trình nghiệp vụ. Việc giao nhận vận chuyển được ghi nhận thông qua cập nhật trạng thái đơn hàng trên hệ thống. |
 | Tích hợp hệ thống | Frontend và Backend cần thống nhất cấu trúc dữ liệu trao đổi qua API. Việc tích hợp phải được thực hiện theo từng giai đoạn để hạn chế lỗi không tương thích dữ liệu và ảnh hưởng đến tiến độ chung. |
 
-### **2.6.2. Các giả định của dự án**
+### **6.2. Các giả định của dự án**
 
 | STT | Giả định | Nội dung |
 | :---- | :---- | :---- |
@@ -173,7 +173,7 @@ Luồng quản trị đơn hàng:
 | 5 | Tồn kho | Số lượng tồn kho ban đầu được thiết lập bằng dữ liệu mẫu. Mỗi biến thể sản phẩm theo kích cỡ và màu sắc có số lượng tồn kho riêng để phục vụ việc kiểm tra khả năng đặt hàng và cập nhật tồn kho. |
 | 6 | Người vận hành | Admin là tài khoản được nhóm cấp quyền để thực hiện các chức năng quản trị trong môi trường đồ án. Việc cấp và thay đổi quyền quản trị phải được kiểm soát, không cho phép người dùng tự nâng quyền tài khoản. |
 
-## **2.7. Tổng kết yêu cầu dự án**
+## **7. Tổng kết yêu cầu dự án**
 
 | Hạng mục | Nội dung tổng hợp |
 | :---- | :---- |
