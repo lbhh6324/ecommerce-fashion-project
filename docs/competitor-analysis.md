@@ -76,26 +76,65 @@ Phương án thiết kế của HOTMATE được xây dựng dựa trên sự c�
 
 ## 3. Minh họa khảo sát thực tế website Yody
 <img width="2534" height="1317" alt="image" src="https://github.com/user-attachments/assets/eeef3688-7773-4b23-9354-ecc21b8f14af" />
-*Hình 1: Trang chủ của Yody.*
+<br><em>Hình 1: Trang chủ của Yody.</em>
 
 <img width="1189" height="1265" alt="image" src="https://github.com/user-attachments/assets/9985ec7a-c4b0-4cc1-9c6a-75b86a05d8dd" />
-*Hình 2: Danh mục sản phẩm của Yody.*
+<br><em>Hình 2: Danh mục sản phẩm của Yody.</em>
 
 <img width="521" height="1178" alt="image" src="https://github.com/user-attachments/assets/a20c0a3b-9d49-43a4-bc14-ec129bf4db19" />
-*Hình 3: Khung tìm kiếm trên giao diện mobile của Yody.*
+<br><em>Hình 3: Khung tìm kiếm trên giao diện mobile của Yody.</em>
 
 <img width="2555" height="1320" alt="image" src="https://github.com/user-attachments/assets/a54a4b40-759c-4f2c-a8a3-73553257653e" />
-*Hình 4: Khung tìm kiếm trên giao diện máy tính của Yody.*
+<br><em>Hình 4: Khung tìm kiếm trên giao diện máy tính của Yody.</em>
 
 <img width="1704" height="1252" alt="image" src="https://github.com/user-attachments/assets/4fa66fc7-22a8-4a45-a6f3-6c10fd7c6cdb" />
 <br><em>Hình 5: Tính năng lọc của Yody.</em>
 
 <img width="1337" height="1261" alt="image" src="https://github.com/user-attachments/assets/5be12c49-72b8-4653-bc28-e43106a6a4f8" />
-*Hình 6: Trang chi tiết sản phẩm phần thông tin ảnh cuộn dài của Yody.*
+<br><em>Hình 6: Trang chi tiết sản phẩm phần thông tin ảnh cuộn dài của Yody.</em>
 
 <img width="1307" height="793" alt="image" src="https://github.com/user-attachments/assets/9b62bf3d-7975-4d25-a21c-27adb8da14eb" />
-*Hình 7: Trang giỏ hàng của Yody.*
+<br><em>Hình 7: Trang giỏ hàng của Yody.</em>
 
 <img width="1242" height="856" alt="image" src="https://github.com/user-attachments/assets/a27b8d0c-ffc8-4f8f-b5a4-1a22f998e489" />
-*Hình 8: Trang thanh toán của Yody.*
+<br><em>Hình 8: Trang thanh toán của Yody.</em>
 
+---
+
+## 4. Minh họa khảo sát thực tế website Routine
+
+<br><em>Hình 9: Trang chủ của Routine.</em>
+
+<br><em>Hình 10: Danh mục sản phẩm của Routine.</em>
+
+<br><em>Hình 11: Khung tìm kiếm trên giao diện mobile của Routine.</em>
+
+<br><em>Hình 12: Khung tìm kiếm trên giao diện máy tính của Routine.</em>
+
+<br><em>Hình 13: Tính năng lọc của Routine.</em>
+
+<br><em>Hình 14: Trang chi tiết sản phẩm của Routine.</em>
+
+<br><em>Hình 15: Trang giỏ hàng của Routine.</em>
+
+<br><em>Hình 16: Trang thanh toán của Routine.</em>
+
+---
+
+## 5. Minh họa khảo sát thực tế website Uniqlo
+
+<br><em>Hình 17: Trang chủ của Uniqlo.</em>
+
+<br><em>Hình 18: Danh mục sản phẩm của Uniqlo.</em>
+
+<br><em>Hình 20: Khung tìm kiếm trên giao diện mobile của Uniqlo.</em>
+
+<br><em>Hình 21: Khung tìm kiếm trên giao diện máy tính của Uniqlo.</em>
+
+<br><em>Hình 22: Tính năng lọc của Uniqlo.</em>
+
+<br><em>Hình 23: Trang chi tiết sản phẩm của Uniqlo.</em>
+
+<br><em>Hình 24: Trang giỏ hàng của Uniqlo.</em>
+
+<br><em>Hình 25: Trang thanh toán của Uniqlo.</em>
