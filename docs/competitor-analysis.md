@@ -78,23 +78,37 @@ Phương án thiết kế của HOTMATE được xây dựng dựa trên sự c�
 <img width="2534" height="1317" alt="image" src="https://github.com/user-attachments/assets/eeef3688-7773-4b23-9354-ecc21b8f14af" />
 <br><em>Hình 1: Trang chủ của Yody.</em>
 
+---
+
 <img width="1189" height="1265" alt="image" src="https://github.com/user-attachments/assets/9985ec7a-c4b0-4cc1-9c6a-75b86a05d8dd" />
 <br><em>Hình 2: Danh mục sản phẩm của Yody.</em>
+
+---
 
 <img width="521" height="1178" alt="image" src="https://github.com/user-attachments/assets/a20c0a3b-9d49-43a4-bc14-ec129bf4db19" />
 <br><em>Hình 3: Khung tìm kiếm trên giao diện mobile của Yody.</em>
 
+---
+
 <img width="2555" height="1320" alt="image" src="https://github.com/user-attachments/assets/a54a4b40-759c-4f2c-a8a3-73553257653e" />
 <br><em>Hình 4: Khung tìm kiếm trên giao diện máy tính của Yody.</em>
+
+---
 
 <img width="1704" height="1252" alt="image" src="https://github.com/user-attachments/assets/4fa66fc7-22a8-4a45-a6f3-6c10fd7c6cdb" />
 <br><em>Hình 5: Tính năng lọc của Yody.</em>
 
+---
+
 <img width="1337" height="1261" alt="image" src="https://github.com/user-attachments/assets/5be12c49-72b8-4653-bc28-e43106a6a4f8" />
 <br><em>Hình 6: Trang chi tiết sản phẩm phần thông tin ảnh cuộn dài của Yody.</em>
 
+---
+
 <img width="1307" height="793" alt="image" src="https://github.com/user-attachments/assets/9b62bf3d-7975-4d25-a21c-27adb8da14eb" />
 <br><em>Hình 7: Trang giỏ hàng của Yody.</em>
+
+---
 
 <img width="1242" height="856" alt="image" src="https://github.com/user-attachments/assets/a27b8d0c-ffc8-4f8f-b5a4-1a22f998e489" />
 <br><em>Hình 8: Trang thanh toán của Yody.</em>
@@ -102,39 +116,101 @@ Phương án thiết kế của HOTMATE được xây dựng dựa trên sự c�
 ---
 
 ## 4. Minh họa khảo sát thực tế website Routine
-
+<img width="1897" height="974" alt="image" src="https://github.com/user-attachments/assets/db537ee8-e9e7-4753-8870-876143016bf3" />
 <br><em>Hình 9: Trang chủ của Routine.</em>
 
+---
+
+<img width="856" height="907" alt="image" src="https://github.com/user-attachments/assets/e3eb80d3-2151-4506-8384-2101a45dae25" />
 <br><em>Hình 10: Danh mục sản phẩm của Routine.</em>
 
+---
+
+<img width="407" height="829" alt="image" src="https://github.com/user-attachments/assets/7ef03f6a-d6df-4462-8a80-9a51b72666ef" />
 <br><em>Hình 11: Khung tìm kiếm trên giao diện mobile của Routine.</em>
 
+---
+
+<img width="881" height="906" alt="image" src="https://github.com/user-attachments/assets/18e4f29b-a7b6-4222-a543-7d16499eb249" />
 <br><em>Hình 12: Khung tìm kiếm trên giao diện máy tính của Routine.</em>
 
+---
+
+<img width="1462" height="902" alt="image" src="https://github.com/user-attachments/assets/5a01117d-bd90-4078-bb9f-968067d11839" />
 <br><em>Hình 13: Tính năng lọc của Routine.</em>
 
-<br><em>Hình 14: Trang chi tiết sản phẩm của Routine.</em>
+---
 
-<br><em>Hình 15: Trang giỏ hàng của Routine.</em>
+<img width="1062" height="705" alt="image" src="https://github.com/user-attachments/assets/8fcef4cf-2bbf-466e-8d27-4bc53e7b8c08" />
+<br><em>Hình 14: Trang chi tiết sản phẩm của Routine (1).</em>
 
-<br><em>Hình 16: Trang thanh toán của Routine.</em>
+---
+
+<img width="660" height="901" alt="image" src="https://github.com/user-attachments/assets/ddbf9852-bbce-4eb1-ab97-78b3665a4b9a" />
+<br><em>Hình 15: Trang chi tiết sản phẩm của Routine (2).</em>
+
+---
+
+<img width="643" height="861" alt="image" src="https://github.com/user-attachments/assets/80a9b944-3062-4d94-a65f-e838c459630f" />
+<br><em>Hình 16: Trang chi tiết sản phẩm của Routine (3).</em>
+
+---
+
+<img width="1261" height="435" alt="image" src="https://github.com/user-attachments/assets/ae349490-9e6d-4f31-bccd-1dc67a562ea4" />
+<br><em>Hình 17: Trang giỏ hàng của Routine.</em>
+
+---
+
+<img width="957" height="902" alt="image" src="https://github.com/user-attachments/assets/de9bbe86-f4a8-4ae1-a8ed-c7c04ec8ff63" />
+<br><em>Hình 18: Trang thanh toán của Routine.</em>
 
 ---
 
 ## 5. Minh họa khảo sát thực tế website Uniqlo
+<img width="1348" height="909" alt="image" src="https://github.com/user-attachments/assets/001e40cf-f40d-4107-a5ab-ce3563ddf872" />
+<br><em>Hình 19: Trang chủ của Uniqlo.</em>
 
-<br><em>Hình 17: Trang chủ của Uniqlo.</em>
+---
 
-<br><em>Hình 18: Danh mục sản phẩm của Uniqlo.</em>
+<img width="597" height="879" alt="image" src="https://github.com/user-attachments/assets/238c8da2-a98b-448c-aabd-f3bdb79e47f9" />
+<br><em>Hình 20: Danh mục sản phẩm của Uniqlo.</em>
 
-<br><em>Hình 20: Khung tìm kiếm trên giao diện mobile của Uniqlo.</em>
+---
 
-<br><em>Hình 21: Khung tìm kiếm trên giao diện máy tính của Uniqlo.</em>
+<img width="415" height="758" alt="image" src="https://github.com/user-attachments/assets/fe22e482-e92b-45e2-9f70-dc6556f14819" />
+<br><em>Hình 21: Khung tìm kiếm trên giao diện mobile của Uniqlo.</em>
 
-<br><em>Hình 22: Tính năng lọc của Uniqlo.</em>
+---
 
-<br><em>Hình 23: Trang chi tiết sản phẩm của Uniqlo.</em>
+<img width="1103" height="520" alt="image" src="https://github.com/user-attachments/assets/7e194b35-8a50-4e9a-bdc3-025d4227134a" />
+<br><em>Hình 22: Khung tìm kiếm trên giao diện máy tính của Uniqlo.</em>
 
-<br><em>Hình 24: Trang giỏ hàng của Uniqlo.</em>
+---
 
-<br><em>Hình 25: Trang thanh toán của Uniqlo.</em>
+<img width="1428" height="897" alt="image" src="https://github.com/user-attachments/assets/e3107eda-e954-4bc5-a614-af5eb2ab84c8" />
+<br><em>Hình 23: Tính năng lọc của Uniqlo.</em>
+
+---
+
+<img width="914" height="807" alt="image" src="https://github.com/user-attachments/assets/223393b1-88ab-4d73-8319-93acba3da221" />
+<br><em>Hình 24: Trang chi tiết sản phẩm của Uniqlo (1).</em>
+
+---
+
+<img width="839" height="525" alt="image" src="https://github.com/user-attachments/assets/42d8ef04-44e4-41bc-9425-4722bfee7ed1" />
+<br><em>Hình 25: Trang chi tiết sản phẩm của Uniqlo (2).</em>
+
+---
+
+<img width="631" height="816" alt="image" src="https://github.com/user-attachments/assets/84f7e39d-b157-4e8a-a36c-39eb587a224d" />
+<br><em>Hình 26: Trang chi tiết sản phẩm của Uniqlo (3).</em>
+
+---
+
+<img width="802" height="898" alt="image" src="https://github.com/user-attachments/assets/f752bc03-41b3-49c9-8d59-98b518f4d57e" />
+<br><em>Hình 27: Trang giỏ hàng của Uniqlo.</em>
+
+---
+
+<img width="965" height="876" alt="image" src="https://github.com/user-attachments/assets/c626360d-fafa-4c6c-ad50-a03a05952aa2" />
+<br><em>Hình 28: Trang thanh toán của Uniqlo.</em>
