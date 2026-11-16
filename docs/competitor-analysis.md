@@ -88,7 +88,7 @@ Phương án thiết kế của HOTMATE được xây dựng dựa trên sự c�
 *Hình 4: Khung tìm kiếm trên giao diện máy tính của Yody.*
 
 <img width="1704" height="1252" alt="image" src="https://github.com/user-attachments/assets/4fa66fc7-22a8-4a45-a6f3-6c10fd7c6cdb" />
-*Hình 5: Tính năng lọc của Yody.*
+<br><em>Hình 5: Tính năng lọc của Yody.</em>
 
 <img width="1337" height="1261" alt="image" src="https://github.com/user-attachments/assets/5be12c49-72b8-4653-bc28-e43106a6a4f8" />
 *Hình 6: Trang chi tiết sản phẩm phần thông tin ảnh cuộn dài của Yody.*
